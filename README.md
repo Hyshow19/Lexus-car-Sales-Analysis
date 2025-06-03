@@ -39,5 +39,5 @@ The goal of this project is to explore and analyze Lexus car sales data to extra
 ## 🛠 Tools Used
 
 - **Power BI**: For creating the visual dashboard
-- **Excel**: For initial data review
+- **Excel**: For initial data review.
 
