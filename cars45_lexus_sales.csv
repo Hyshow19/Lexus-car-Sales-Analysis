@@ -1,0 +1,625 @@
+,name,price_in_NGN,country,mileage_in_km
+0,Lexus ES 2009 Gray,"4,725,000",Foreign Used,208485
+1,Lexus ES 350 2007 Black,"4,472,000",Nigerian Used,91026
+2,Lexus RX 330 2004 Silver,"5,250,000",Foreign Used,346408
+3,Lexus ES 350 2010 Black,"6,676,000",Foreign Used,220978
+4,Lexus ES 300 2002 Gray,"2,716,000",Nigerian Used,311511
+5,Lexus IS 2006 Red,"3,640,000",Nigerian Used,129101
+6,Lexus RX 350 2018 Black,"21,937,500",Foreign Used,7349
+7,Lexus RX 350 2011 White,"9,880,000",Foreign Used,72572
+8,Lexus ES 2010 Red,"6,032,000",Foreign Used,143196
+9,Lexus LS 2007 Gray,"5,250,000",Foreign Used,277739
+10,Lexus ES 2004 Silver,"3,328,000",Foreign Used,614663
+11,Lexus IS 250 AWD 2007 Silver,"4,160,000",Foreign Used,205644
+12,Lexus RX 2004 Gray,"5,250,000",Foreign Used,396182
+13,Lexus ES 2007 Red,"4,836,000",Foreign Used,133222
+14,Lexus ES 350 2009 Blue,"4,680,000",Nigerian Used,63060
+0,Lexus RX 350 2013 Black,"7,900,000",Nigerian Used,93594
+1,Lexus ES 2007 Silver,"3,744,000",Nigerian Used,177936
+2,Lexus ES 330 2005 Black,"3,360,000",Foreign Used,174360
+3,Lexus ES 350 2009 Blue,"4,680,000",Nigerian Used,63060
+4,Lexus ES 350 2007 Silver,"3,465,000",Nigerian Used,84355
+5,Lexus GS 300 Automatic 2006 Gray,"4,680,000",Foreign Used,587508
+6,Lexus ES 2003 Silver,"3,120,000",Foreign Used,392590
+7,Lexus GS 300 AWD 2006 Black,"3,120,000",Nigerian Used,175416
+8,Lexus RX 350 2012 Silver,"9,360,000",Nigerian Used,140672
+9,Lexus ES 2007 Gray,"3,150,000",Nigerian Used,88115
+10,Lexus RX 350 2011 Burgandy,"8,925,000",Foreign Used,167764
+11,Lexus GX 2016 Black,"31,200,000",Foreign Used,66392
+12,Lexus ES 350 2007 Red,"4,992,000",Nigerian Used,70586
+13,Lexus RX 450h 2010 Gray,"11,550,000",Foreign Used,33341
+14,Lexus RX 2006 Black,"4,515,000",Foreign Used,241425
+15,Lexus ES 2014 Silver,"10,500,000",Foreign Used,228135
+16,Lexus RX 350 2010 Black,"9,568,000",Foreign Used,148590
+17,Lexus ES 350 2007 Black,"3,640,000",Nigerian Used,215958
+18,Lexus RX 2005 Silver,"4,725,000",Foreign Used,250815
+19,Lexus IS 2007 Black,"3,990,000",Foreign Used,87443
+20,Lexus RX 2013 Gray,"9,360,000",Nigerian Used,124369
+21,Lexus IS 2007 Black,"3,885,000",Foreign Used,208115
+22,Lexus ES 350 2007 Beige,"3,640,000",Nigerian Used,231612
+23,Lexus RX 350 2013 Gold,"9,360,000",Nigerian Used,166322
+24,Lexus IS 250 2008 Black,"4,056,000",Nigerian Used,279057
+25,Lexus ES 2005 Black,"2,250,000",Nigerian Used,109879
+26,Lexus ES 2007 Black,"3,848,000",Nigerian Used,235445
+27,Lexus ES 350 2010 Green,"6,032,000",Foreign Used,202778
+28,Lexus RX 330 2006 Black,"3,570,000",Foreign Used,128922
+29,Lexus ES 300 2002 Silver,"1,942,500",Nigerian Used,244634
+30,Lexus ES 350 2008 Brown,"4,160,000",Nigerian Used,137782
+31,Lexus RX 350 2013 Black,"8,632,000",Nigerian Used,176082
+32,Lexus IS 2007 Silver,"2,625,000",Nigerian Used,402112
+33,Lexus ES 350 2009 Gray,"4,160,000",Nigerian Used,151335
+34,Lexus IS 250 2008 Blue,"2,782,500",Nigerian Used,277867
+35,Lexus ES 350 2007 Blue,"3,848,000",Nigerian Used,85013
+36,Lexus RX 300 2001 Gray,"3,432,000",Nigerian Used,87945
+37,Lexus RX 2005 Blue,"4,680,000",Nigerian Used,237395
+38,Lexus RX 330 2004 Silver,"3,450,000",Nigerian Used,515967
+39,Lexus RX 350 2007 Blue,"4,836,000",Nigerian Used,158366
+40,Lexus RX 1999 Black,"3,120,000",Nigerian Used,454756
+41,Lexus RX 400h 2009 Silver,"3,885,000",Nigerian Used,319453
+42,Lexus ES 350 2007 Silver,"3,640,000",Nigerian Used,273180
+43,Lexus ES 2002 Silver,"2,205,000",Nigerian Used,265628
+44,Lexus RX 2004 Gold,"2,940,000",Nigerian Used,225831
+45,Lexus RX 2005 Blue,"4,680,000",Nigerian Used,237395
+46,Lexus RX 350 2015 Silver,"8,190,000",Nigerian Used,78902
+47,Lexus RX 330 2005 Silver,"3,952,000",Nigerian Used,172231
+48,Lexus ES 2002 Silver,"2,205,000",Nigerian Used,265628
+49,Lexus RX 350 2008 Silver,"3,675,000",Nigerian Used,183344
+50,Lexus ES 2004 Black,"1,845,000",Nigerian Used,211921
+51,Lexus ES 300 2004 Gold,"2,835,000",Foreign Used,227169
+52,Lexus RX 350 2007 Black,"4,056,000",Nigerian Used,178817
+53,Lexus RX 330 2004 Red,"3,255,000",Nigerian Used,172447
+54,Lexus ES 350 2012 Blue,"3,675,000",Nigerian Used,122897
+55,Lexus ES 350 2007 Black,"3,360,000",Nigerian Used,158069
+56,Lexus RX 350 2007 Black,"5,824,000",Foreign Used,365544
+57,Lexus IS 2007 Black,"4,160,000",Nigerian Used,151475
+58,Lexus RX 350 2013 White,"9,870,000",Foreign Used,472358
+59,Lexus GS 2006 Black,"2,100,000",Nigerian Used,88920
+60,Lexus ES 350 2012 Blue,"3,675,000",Nigerian Used,122897
+61,Lexus RX 330 2004 Silver,"3,640,000",Nigerian Used,238805
+62,Lexus ES 2005 White,"2,600,000",Nigerian Used,143036
+63,Lexus IS 2006 Silver,"2,625,000",Nigerian Used,254655
+64,Lexus RX 350 2010 Black,"7,350,000",Nigerian Used,113584
+65,Lexus RX 350 2007 Green,"3,848,000",Nigerian Used,199392
+66,Lexus ES 350 2011 Gray,"4,992,000",Nigerian Used,103562
+67,Lexus RX 1999 Gold,"1,872,000",Nigerian Used,241294
+68,Lexus LX 2005 Black,"4,830,000",Nigerian Used,265027
+69,Lexus RX 350 2010 Black,"7,488,000",Nigerian Used,42941
+70,Lexus ES 350 2008 Silver,"5,200,000",Foreign Used,179191
+71,Lexus IS 2006 Silver,"2,325,000",Nigerian Used,199985
+72,Lexus RX 300 4WD 2000 Gray,"1,890,000",Nigerian Used,96824
+73,Lexus RX 350 2010 Red,"6,300,000",Nigerian Used,149764
+74,Lexus RX 300 2001 Gray,"1,995,000",Nigerian Used,103844
+75,Lexus ES 330 Sedan 2004 Silver,"2,100,000",Nigerian Used,384517
+76,Lexus GS 350 2008 Black,"2,625,000",Nigerian Used,96265
+77,Lexus RX 350 2011 Black,"7,488,000",Nigerian Used,217788
+78,Lexus GX 2011 Black,"13,520,000",Nigerian Used,114937
+79,Lexus ES 350 2008 Black,"2,415,000",Nigerian Used,135029
+80,Lexus ES 2008 Black,"2,730,000",Nigerian Used,156907
+81,Lexus RX 1999 Black,"1,470,000",Nigerian Used,240478
+82,Lexus ES 2002 Silver,"2,236,000",Nigerian Used,216012
+83,Lexus ES 350 2009 Black,"5,200,000",Nigerian Used,255714
+84,Lexus ES 2009 White,"3,675,000",Foreign Used,397434
+85,Lexus RX 350 2018 Gray,"24,960,000",Foreign Used,33851
+86,Lexus ES 2000 White,"1,680,000",Foreign Used,350313
+87,Lexus ES 2000 Gray,"1,575,000",Nigerian Used,357459
+88,Lexus IS 250 4WD 2014 Black,"14,560,000",Foreign Used,74972
+89,Lexus ES 330 Sedan 2004 Black,"1,890,000",Nigerian Used,399389
+90,Lexus RX 300 2001 Black,"1,785,000",Nigerian Used,263034
+91,Lexus GS 300 AWD 2006 Gray,"2,100,000",Nigerian Used,1706621
+92,Lexus RX 350 2009 Gray,"6,552,000",Foreign Used,109771
+93,Lexus IS 350 2007 Gray,"3,328,000",Nigerian Used,260450
+94,Lexus RX 300 XE Automatic 2005 Blue,"2,625,000",Nigerian Used,106091
+95,Lexus IS 2006 Silver,"1,890,000",Nigerian Used,254765
+96,Lexus GS 300 Automatic 2006 Gray,"2,415,000",Nigerian Used,150688
+97,Lexus RX 350 2007 White,"4,680,000",Nigerian Used,178949
+98,Lexus ES 330 2005 Burgandy,"2,704,000",Nigerian Used,83177
+99,Lexus ES 350 2011 White,"4,500,000",Nigerian Used,81290
+100,Lexus RX 2007 Black,"6,300,000",Foreign Used,181167
+101,Lexus IS 250 AWD Automatic 2010 Blue,"7,280,000",Foreign Used,128887
+102,Lexus ES 2009 Silver,"6,412,500",Foreign Used,89625
+103,Lexus RX 350 2008 Black,"6,525,000",Foreign Used,184378
+104,Lexus RX 350 AWD 2014 Black,"9,660,000",Nigerian Used,173102
+105,Lexus GS 2004 Black,"3,150,000",Foreign Used,98357
+106,Lexus ES 2007 Black,"2,812,500",Nigerian Used,245385
+107,Lexus ES 350 2008 Black,"2,812,500",Nigerian Used,134552
+108,Lexus GS 2007 Blue,"3,120,000",Nigerian Used,194775
+109,Lexus ES 350 2007 Blue,"4,050,000",Nigerian Used,136056
+110,Lexus ES 2008 Blue,"3,150,000",Foreign Used,114955
+111,Lexus RX 300 2000 Gold,"2,137,500",Nigerian Used,102072
+112,Lexus ES 300 2003 Gray,"2,362,500",Nigerian Used,400144
+113,Lexus ES 2006 Blue,"2,310,000",Nigerian Used,16204
+114,Lexus ES 350 FWD 2013 Silver,"8,944,000",Nigerian Used,129040
+115,Lexus ES 2005 Gray,"2,137,500",Nigerian Used,300529
+116,Lexus RX 300 4WD 2000 Gray,"1,995,000",Nigerian Used,274020
+117,Lexus RX 350 2010 Black,"10,920,000",Nigerian Used,144417
+118,Lexus IS 2011 White,"4,410,000",Nigerian Used,250604
+119,Lexus RX 2005 Blue,"3,640,000",Nigerian Used,172701
+120,Lexus ES 330 2005 Black,"3,375,000",Nigerian Used,123852
+121,Lexus ES 350 2010 Gray,"6,187,500",Foreign Used,133081
+122,Lexus RX 350 2011 White,"9,562,500",Nigerian Used,29453
+123,Lexus RX 350 2012 Gray,"10,125,000",Nigerian Used,82794
+124,Lexus RX 350 AWD 2009 Silver,"5,287,500",Nigerian Used,304110
+125,Lexus ES 2008 Silver,"4,888,000",Foreign Used,110708
+126,Lexus GX 470 Sport Utility 2006 Black,"5,062,500",Nigerian Used,7269
+127,Lexus GS 300 AWD 2006 Green,"3,375,000",Nigerian Used,293007
+128,Lexus IS 250 2010 Silver,"4,500,000",Foreign Used,156299
+129,Lexus RX 330 2004 Gray,"2,925,000",Nigerian Used,127193
+130,Lexus ES 2003 Silver,"1,800,000",Nigerian Used,235053
+131,Lexus RX 300 2000 Black,"2,070,000",Nigerian Used,396340
+132,Lexus ES 2011 Black,"5,145,000",Foreign Used,131441
+133,Lexus RX 2005 Silver,"3,375,000",Nigerian Used,124379
+134,Lexus ES 2004 Silver,"2,600,000",Nigerian Used,228349
+135,Lexus RX 330 2004 Silver,"4,500,000",Nigerian Used,147798
+136,Lexus IS 2010 Blue,"4,500,000",Foreign Used,137041
+137,Lexus ES 350 2007 Black,"4,725,000",Foreign Used,270811
+138,Lexus RX 350 2011 Red,"8,212,500",Nigerian Used,184048
+139,Lexus ES 350 2007 Blue,"3,600,000",Nigerian Used,164611
+140,Lexus RX 330 2005 Blue,"4,725,000",Nigerian Used,120974
+141,Lexus RX 400h 2006 Silver,"5,062,500",Foreign Used,290168
+142,Lexus IS 350 2008 Silver,"5,625,000",Foreign Used,92386
+143,Lexus IS 2007 Black,"4,500,000",Foreign Used,181561
+144,Lexus GX 470 Sport Utility 2006 Black,"5,062,500",Nigerian Used,65202
+145,Lexus RX 2007 Gray,"5,287,500",Nigerian Used,109813
+146,Lexus IS 2008 Gray,"3,656,250",Nigerian Used,154400
+147,Lexus ES 350 2007 Black,"3,150,000",Nigerian Used,140981
+148,Lexus RX 330 2004 Gray,"3,150,000",Nigerian Used,254872
+149,Lexus IS 250 4WD 2009 Red,"4,160,000",Nigerian Used,152653
+150,Lexus IS 2009 White,"3,045,000",Nigerian Used,191619
+151,Lexus IS 250 2008 Black,"4,472,000",Foreign Used,227424
+152,Lexus GX 2004 Black,"11,440,000",Foreign Used,272206
+153,Lexus IS 2010,"5,834,000",138024 km,n/a
+154,Lexus RX 2006 Brown,"3,744,000",Nigerian Used,144513
+155,Lexus IS 2016,"7,850,000",63086 km,n/a
+156,Lexus ES 2016,"11,000,000",n/a,n/a
+157,Lexus CT 2011 gray,"13,450,000",32096 km,n/a
+158,Lexus RX 350 2010,"9,391,200",Foreign Used,91604
+159,Lexus RX 2006 330 AWD Green,"3,360,000",Nigerian Used,172079
+160,Lexus GX 470 Sport Utility 2006 Blue,"3,255,000",Nigerian Used,130145
+161,Lexus RX 330 2004 Silver,"3,150,000",Nigerian Used,140740
+162,Lexus IS 2007,"3,497,500",75478 km,n/a
+163,Lexus RX 2017 350 F Sport FWD White,"23,920,000",Foreign Used,26250
+164,Lexus GX 2006 470 Sport Utility Gold,"4,160,000",Nigerian Used,210014
+165,Lexus GX 470 Sport Utility 2006 Blue,"3,255,000",Nigerian Used,130145
+166,Lexus IS 2008 White,"3,640,000",Nigerian Used,365794
+167,Lexus ES 300 2003 Silver,"2,600,000",Nigerian Used,207556
+168,Lexus RX 330 2004 Silver,"3,150,000",Nigerian Used,140740
+169,Lexus RX 2010 Gray,"6,760,000",Nigerian Used,215411
+170,Lexus GX 2010 Black,"12,500,000",Nigerian Used,75873
+171,Lexus GX 460 Luxury 2015 Black,"15,750,000",Nigerian Used,61172
+172,Lexus RX 350 2009 Silver,"6,448,000",Foreign Used,95321
+173,Lexus ES 2008 Gray,"3,045,000",Nigerian Used,243860
+174,Lexus IS 2019 black,"16,810,000",12915 km,n/a
+175,Lexus RX 2006 330 AWD Green,"3,360,000",Nigerian Used,172079
+176,Lexus GS 2006 black,"3,370,000",160620 km,n/a
+177,Lexus IS 2012 Blue,"4,200,000",Nigerian Used,96283
+178,Lexus ES 2007 Silver,"5,720,000",Nigerian Used,138763
+179,Lexus IS 2007 Black,"4,576,000",Foreign Used,203757
+180,Lexus RX 330 2005 Gray,"3,328,000",Nigerian Used,156418
+181,Lexus IS 2006 Silver,"4,992,000",Foreign Used,110422
+182,Lexus ES 350 2009 Black,"3,536,000",Nigerian Used,91745
+183,Lexus ES 2008 Gray,"3,045,000",Nigerian Used,243860
+184,Lexus GS 2006 black,"3,370,000",160620 km,n/a
+185,Lexus GS 2006 black,"3,620,000",147574 km,n/a
+186,Lexus ES 2003 white,"1,914,000",112762 km,n/a
+187,Lexus ES 2009 Silver,"3,360,000",Nigerian Used,131282
+188,Lexus IS 2006 Black,"3,095,000",Nigerian Used,81045
+189,Lexus RX 2005 Black,"3,536,000",Nigerian Used,211866
+190,Lexus RX 2010 Gray,"6,760,000",Nigerian Used,215411
+191,Lexus RX 350 2017 Gray,"26,000,000",Foreign Used,68077
+192,Lexus GX 470 2003 Gray,"3,675,000",Nigerian Used,299647
+193,Lexus RX 350 2013 Black,"9,450,000",Foreign Used,172441
+194,Lexus GX 460 Luxury 2015 Black,"23,920,000",Nigerian Used,49034
+195,Lexus IS 250 AWD 2006 Black,"4,160,000",Nigerian Used,160209
+196,Lexus IS 2007 White,"4,160,000",Foreign Used,95376
+197,Lexus ES 2012 Black,"7,072,000",Foreign Used,135295
+198,Lexus IS 250 2008 Red,"3,727,500",Foreign Used,101541
+199,Lexus ES 350 FWD 2014 Black,"9,240,000",Foreign Used,72352
+200,Lexus GS 2008 350 Black,"3,432,000",Nigerian Used,86824
+201,Lexus IS 2019 black,"16,810,000",12915 km,n/a
+202,Lexus ES 2007 black,"3,594,000",213362 km,n/a
+203,Lexus GX 460 2011 Black,"15,600,000",Nigerian Used,196286
+204,Lexus LS 2007 Black,"5,720,000",Foreign Used,171869
+205,Lexus IS 250 AWD 2006 Gold,"3,328,000",Nigerian Used,69785
+206,Lexus ES 2008 Silver,"3,885,000",Foreign Used,85901
+207,Lexus IS 2014 Red,"9,450,000",Foreign Used,153722
+208,Lexus ES 2005 330 Blue,"3,150,000",Foreign Used,124007
+209,Lexus IS 2006 Silver,"4,160,000",Nigerian Used,103797
+210,Lexus GX 2005 470 Sport Utility Silver,"4,160,000",Nigerian Used,67744
+211,Lexus RX 2018 Blue,"21,000,000",Foreign Used,53288
+212,Lexus IS 250 2008 Red,"3,727,500",Foreign Used,101541
+213,Lexus GX 2008 Red,"4,725,000",Nigerian Used,162262
+214,Lexus ES 2005 330 Blue,"3,150,000",Foreign Used,124007
+215,Lexus LS 2007 Black,"5,720,000",Foreign Used,171869
+216,Lexus RX 350 2014 Black,"15,600,000",Foreign Used,68276
+217,Lexus ES 2005 silver,"3,818,000",167583 km,n/a
+218,Lexus RX 2010 Blue,"8,610,000",Foreign Used,135819
+219,Lexus GX 2004 470 Black,"4,680,000",Nigerian Used,98430
+220,Lexus ES 2010 350 Silver,"4,784,000",Nigerian Used,140073
+221,Lexus RX 330 2004 Black,"3,640,000",Nigerian Used,229786
+222,Lexus ES 2008 Black,"3,360,000",Nigerian Used,120028
+223,Lexus RX 350 2017 Gray,"26,000,000",Foreign Used,68077
+224,Lexus RX 330 4WD 2005 Matt Black,"3,360,000",Nigerian Used,109691
+225,Lexus ES 2008 350 Gray,"4,680,000",Foreign Used,200262
+226,Lexus LX 2016 Black,"42,000,000",Nigerian Used,107355
+227,Lexus RX 2015 350 AWD Gold,"9,450,000",Nigerian Used,88745
+228,Lexus RX 2004 Black,"5,408,000",Foreign Used,158812
+229,Lexus RX 2007 350 Gray,"3,650,000",Nigerian Used,177336
+230,Lexus GS 2006,"3,146,000",169675 km,n/a
+231,Lexus GX 2003 470 Off white,"5,565,000",Foreign Used,239713
+232,Lexus ES 2008 Silver,"3,885,000",Foreign Used,85901
+233,Lexus RX 330 AWD 2006 Gray,"3,848,000",Nigerian Used,127728
+234,Lexus RX 350 2013 Black,"12,500,000",Foreign Used,219832
+235,Lexus ES 2007 350 Black,"4,200,000",Foreign Used,89548
+236,Lexus ES 2008 350 Silver,"3,640,000",Nigerian Used,97315
+237,Lexus ES 2007 350 Black,"4,095,000",Foreign Used,348830
+238,Lexus ES 2012 Gold,"7,280,000",Nigerian Used,81214
+239,Lexus RX 350 2008 Black,"5,928,000",Foreign Used,169765
+240,Lexus ES 2007 Silver,"3,885,000",Foreign Used,65060
+241,Lexus GX 470 2003 Off white,"4,200,000",Nigerian Used,248845
+242,Lexus ES 2007 Black,"3,588,000",Nigerian Used,106211
+243,Lexus RX 2008 350 AWD Black,"4,680,000",Nigerian Used,142273
+244,Lexus RX 2015 350 AWD Gold,"9,450,000",Nigerian Used,88745
+245,Lexus ES 2007 Silver,"4,600,000",Foreign Used,157073
+246,Lexus RX 2010 Blue,"8,610,000",Foreign Used,135819
+247,Lexus ES 2007 350 Black,"4,200,000",Foreign Used,89548
+248,Lexus IS 2011 Black,"3,700,000",Nigerian Used,222718
+249,Lexus RX 330 2004 Black,"3,640,000",Nigerian Used,229786
+250,Lexus IS 2006 250 AWD Black,"3,120,000",Nigerian Used,90235
+251,Lexus RX 350 2017 White,"27,040,000",Foreign Used,41905
+252,Lexus IS 250 2009 Black,"3,150,000",Nigerian Used,139072
+253,Lexus RX 330 2006 Gray,"5,408,000",Foreign Used,119197
+254,Lexus ES 350 2007 Black,"3,465,000",Nigerian Used,128248
+255,Lexus RX 2007 Black,"5,460,000",Foreign Used,255839
+256,Lexus RX 2010 350 Black,"9,880,000",Foreign Used,95486
+257,Lexus ES 350 2008 Gold,"5,200,000",Foreign Used,206766
+258,Lexus IS 250 Automatic 2010 Black,"4,725,000",Foreign Used,178027
+259,Lexus RX 350 2007 Gold,"5,512,000",Foreign Used,298814
+260,Lexus ES 2007 350 Black,"4,095,000",Foreign Used,348830
+261,Lexus RX 350 2007 Blue,"5,928,000",Foreign Used,104138
+262,Lexus IS 2008 250 Gray,"3,660,000",Foreign Used,73213
+263,Lexus GS 2008 black,"3,706,000",191411 km,n/a
+264,Lexus GX 460 Premium 2011 Gold,"14,040,000",Nigerian Used,105546
+265,Lexus ES 350 2008 Black,"4,888,000",Foreign Used,155216
+266,Lexus ES 2011 Silver,"6,552,000",Foreign Used,96621
+267,Lexus ES 2008 350 Blue,"3,640,000",Nigerian Used,186699
+268,Lexus GX 2014 Black,"23,920,000",Foreign Used,139592
+269,Lexus ES 2011,"5,274,000",79740 km,n/a
+270,Lexus RX 2015 350 AWD Silver,"15,600,000",Foreign Used,228013
+271,Lexus IS 2009 Black,"4,500,000",Foreign Used,173307
+272,Lexus IS 250 Automatic 2010 Black,"4,725,000",Foreign Used,178027
+273,Lexus IS 2007 350 Silver,"4,368,000",Foreign Used,141782
+274,Lexus GS 2006 Black,"3,675,000",Foreign Used,150872
+275,Lexus ES 350 2010 Blue,"6,032,000",Foreign Used,193624
+276,Lexus ES 2011 Silver,"6,552,000",Foreign Used,96621
+277,Lexus ES 2005,"3,465,000",Foreign Used,n/a
+278,Lexus IS 2008 gray,"3,818,000",72429 km,n/a
+279,Lexus IS 2011 250 AWD Automatic White,"4,992,000",Foreign Used,137902
+280,Lexus LS 2008 Gray,"4,725,000",Nigerian Used,224605
+281,Lexus ES 350 2007 Black,"3,465,000",Nigerian Used,128248
+282,Lexus RX 2001 300 4WD Gold,"3,150,000",Foreign Used,199731
+283,Lexus ES 2009 350 White,"5,200,000",Foreign Used,246462
+284,Lexus IS 2007 blue,"3,610,000",211824 km,n/a
+285,Lexus ES 2009 350 White,"5,200,000",Foreign Used,246462
+286,Lexus ES 2008 350 Red,"3,360,000",Nigerian Used,213189
+287,Lexus RX 2007 350 Black,"5,200,000",Nigerian Used,156579
+288,Lexus RX 2006 Blue,"4,160,000",Nigerian Used,157518
+289,Lexus RX 330 4WD 2005 Silver,"5,720,000",Foreign Used,269971
+290,Lexus RX 2010 Red,"9,048,000",Foreign Used,344424
+291,Lexus ES 350 2007 Gray,"3,640,000",Nigerian Used,74514
+292,Lexus RX 2002 Brown,"3,848,000",Foreign Used,119143
+293,Lexus RX 350 2013 Black,"15,600,000",Foreign Used,115894
+294,Lexus ES 2008 350 Gray,"4,160,000",Nigerian Used,271598
+295,Lexus RX 2001 300 4WD Gold,"3,150,000",Foreign Used,199731
+296,Lexus RX 2004 Green,"6,032,000",Foreign Used,250650
+297,Lexus ES 2007 350 Silver,"4,410,000",Foreign Used,203492
+298,Lexus RX 330 2004 Black,"4,515,000",Foreign Used,146152
+299,Lexus GX 2006,"4,725,000",Nigerian Used,154378
+300,Lexus RX 2010 Red,"9,048,000",Foreign Used,344424
+301,Lexus ES 2007 Gold,"4,888,000",Foreign Used,49407
+302,Lexus ES 330 2005 Gold,"3,536,000",Foreign Used,238874
+303,Lexus IS 2007 250 Silver,"4,095,000",Foreign Used,110621
+304,Lexus RX 350 2013 Black,"15,600,000",Foreign Used,115894
+305,Lexus ES 2008 350 Black,"4,410,000",Foreign Used,169463
+306,Lexus IS 2007 250 Red,"4,992,000",Foreign Used,198969
+307,Lexus ES 350 2008 Silver,"3,640,000",Nigerian Used,280135
+308,Lexus RX 2007 350 Black,"5,200,000",Nigerian Used,156579
+309,Lexus ES 2011 350 Gray,"4,732,000",Nigerian Used,138991
+310,Lexus RX 2006 Blue,"4,160,000",Nigerian Used,157518
+311,Lexus IS 2016 white,"13,450,000",41774 km,n/a
+312,Lexus RX 2004 Green,"6,032,000",Foreign Used,250650
+313,Lexus GX 2006,"4,725,000",Nigerian Used,154378
+314,Lexus RX 2012 350 AWD White,"10,192,000",Foreign Used,134949
+315,Lexus ES 2008 350 Black,"4,410,000",Foreign Used,169463
+316,Lexus GX 470 2008 Black,"9,360,000",Foreign Used,264214
+317,Lexus RX 2010 Black,"9,672,000",Foreign Used,115026
+318,Lexus IS 2011 250 AWD Automatic White,"4,992,000",Foreign Used,137902
+319,Lexus ES 2009 350 Black,"4,784,000",Foreign Used,150890
+320,Lexus ES 2007 Gold,"4,888,000",Foreign Used,49407
+321,Lexus IS 2006 Blue,"4,680,000",Nigerian Used,325269
+322,Lexus Is 2010 black,"4,378,000",98226 km,n/a
+323,Lexus IS 2007 Silver,"3,224,000",Nigerian Used,179811
+324,Lexus GX 470 Sport Utility 2005 Silver,"7,280,000",Nigerian Used,191327
+325,Lexus RX 2012 Gray,"10,400,000",Foreign Used,88804
+326,Lexus RX 2012 350 AWD White,"10,192,000",Foreign Used,134949
+327,Lexus GS 2006 black,"3,594,000",173985 km,n/a
+328,Lexus IS 250 2007 Black,"3,328,000",Nigerian Used,96844
+329,Lexus IS 2008 gray,"3,818,000",72429 km,n/a
+330,Lexus ES 350 2007 Gray,"3,640,000",Nigerian Used,191742
+331,Lexus ES 350 2010 Blue,"4,888,000",Nigerian Used,289309
+332,Lexus ES 2007 350 Gold,"3,744,000",Nigerian Used,207704
+333,Lexus IS 2007 blue,"3,610,000",211824 km,n/a
+334,Lexus ES 2007 350 Black,"3,328,000",Nigerian Used,313140
+335,Lexus RX 2004 330 Gray,"5,200,000",Foreign Used,367310
+336,Lexus ES 350 FWD 2013 Silver,"10,400,000",Nigerian Used,131925
+337,Lexus IS 2014 250 Black,"9,240,000",Foreign Used,187603
+338,Lexus ES 350 2009 Gray,"4,784,000",Foreign Used,286668
+339,Lexus ES 2008 white,"3,706,000",60730 km,n/a
+340,Lexus IS 2008 Black,"3,885,000",Foreign Used,210329
+341,Lexus IS 2007 250 Silver,"4,095,000",Foreign Used,110621
+342,Lexus RX 2004 330 Blue,"3,744,000",Nigerian Used,163903
+343,Lexus ES 350 2007 Silver,"3,952,000",Nigerian Used,131551
+344,Lexus ES 2007 Gold,"4,160,000",Nigerian Used,251263
+345,Lexus GS 300 Automatic 2007 Black,"5,408,000",Foreign Used,150659
+346,Lexus ES 2007 Gold,"4,200,000",Foreign Used,124511
+347,Lexus IS 2009 Black,"4,500,000",Foreign Used,173307
+348,Lexus RX 350 4x4 2009 Gold,"5,408,000",Nigerian Used,25416
+349,Lexus RX 2004 Gray,"4,935,000",Foreign Used,168011
+350,Lexus GX 2007 Gray,"7,488,000",Foreign Used,214028
+351,Lexus RX 350 2008 Silver,"6,240,000",Foreign Used,198621
+352,Lexus IS 2007 350 Silver,"4,368,000",Foreign Used,141782
+353,Lexus RX 2005 330 Blue,"5,200,000",Foreign Used,95873
+354,Lexus ES 2007 White,"5,200,000",Foreign Used,366744
+355,Lexus LX 2002 Gold,"3,150,000",Nigerian Used,213165
+356,Lexus LS 2008 Gray,"4,725,000",Nigerian Used,224605
+357,Lexus GX 2007 Gray,"6,240,000",Nigerian Used,76775
+358,Lexus ES 2010 black,"6,506,000",174545 km,n/a
+359,Lexus RX 350 2009 Silver,"5,985,000",Foreign Used,278230
+360,Lexus ES 350 FWD 2013 Silver,"10,400,000",Nigerian Used,131925
+361,Lexus ES 2007 350 Black,"4,732,000",Foreign Used,259837
+362,Lexus GX 2014 Black,"18,900,000",Nigerian Used,82573
+363,Lexus IS 2009 250 Blue,"3,640,000",Nigerian Used,85662
+364,Lexus ES 300 2002 Purple,"3,224,000",Foreign Used,211561
+365,Lexus RX 2005 330 Blue,"5,200,000",Foreign Used,95873
+366,Lexus ES 2009 350 Black,"5,200,000",Foreign Used,122653
+367,Lexus ES 2007 350 Gold,"4,680,000",Foreign Used,175836
+368,Lexus ES 2007 black,"5,050,000",149693 km,n/a
+369,Lexus GS 300 Automatic 2007 Black,"5,408,000",Foreign Used,150659
+370,Lexus GS 2006 black,"3,594,000",173985 km,n/a
+371,Lexus ES 2008 Gold,"4,992,000",Foreign Used,184977
+372,Lexus IS 2009 250 Gray,"4,200,000",Foreign Used,156800
+373,Lexus RX 2007 400h AWD Silver,"4,680,000",Nigerian Used,170778
+374,Lexus GS 2007 Gray,"3,328,000",Nigerian Used,266358
+375,Lexus RX 400h 2006 Blue,"3,150,000",Nigerian Used,88003
+376,Lexus ES 300 2002 Purple,"3,224,000",Foreign Used,211561
+377,Lexus ES 2007 black,"5,050,000",149693 km,n/a
+378,Lexus ES 2007 Blue,"3,150,000",Nigerian Used,135194
+379,Lexus RX 2007 400h AWD Silver,"4,680,000",Nigerian Used,170778
+380,Lexus ES 2009 350 Black,"5,200,000",Foreign Used,122653
+381,Lexus ES 2007 350 Red,"4,680,000",Foreign Used,91808
+382,Lexus ES 2007 350 Gray,"4,680,000",Foreign Used,148888
+383,Lexus ES 350 2008 Gray,"4,200,000",Foreign Used,148332
+384,Lexus ES 2010 Silver,"4,888,000",Nigerian Used,142751
+385,Lexus ES 2002 Silver,"2,496,000",Nigerian Used,125060
+386,Lexus ES 2007 350 Black,"4,680,000",Foreign Used,131510
+387,Lexus ES 2011 black,"5,500,000",70445 km,n/a
+388,Lexus IS 2009 250 Gray,"4,200,000",Foreign Used,156800
+389,Lexus IS 250 2008 Black,"4,680,000",Foreign Used,161060
+390,Lexus ES 2011 black,"5,500,000",70445 km,n/a
+391,Lexus ES 2002 Silver,"2,496,000",Nigerian Used,125060
+392,Lexus ES 350 2007 Gray,"4,200,000",Foreign Used,182057
+393,Lexus LX 2002 Gold,"3,150,000",Nigerian Used,213165
+394,Lexus IS 2006 Silver,"2,835,000",Nigerian Used,466356
+395,Lexus RX 400h 2006 Blue,"3,150,000",Nigerian Used,88003
+396,Lexus RX 350 2015 Blue,"10,500,000",Foreign Used,40837
+397,Lexus ES 350 2008 Gray,"3,360,000",Nigerian Used,90534
+398,Lexus ES 2004 Silver,"2,600,000",Nigerian Used,220223
+399,Lexus GS 2007 Blue,"2,625,000",Nigerian Used,168422
+400,Lexus IS 2010,"2,922,000",184611 km,n/a
+401,Lexus IS 2009 250 4WD Silver,"3,432,000",Nigerian Used,168106
+402,Lexus IS 250 2008 Black,"3,640,000",Nigerian Used,145662
+403,Lexus GX 470 2004 White,"3,360,000",Nigerian Used,121981
+404,Lexus RX 350 2008 Silver,"3,848,000",Nigerian Used,175395
+405,Lexus RX 350 2012 Gray,"8,320,000",Nigerian Used,128484
+406,Lexus RX 350 2007 White,"3,952,000",Nigerian Used,123673
+407,Lexus ES 2005 330 Black,"3,150,000",Foreign Used,123282
+408,Lexus RX 350 2007 Black,"4,576,000",Nigerian Used,103230
+409,Lexus ES 2006 330 Silver,"3,016,000",Nigerian Used,119248
+410,Lexus GS 2006,"4,042,000",86551 km,n/a
+411,Lexus ES 350 2011 Silver,"5,200,000",Nigerian Used,98718
+412,Lexus RX 400h AWD 2006 Gray,"3,952,000",Nigerian Used,63728
+413,Lexus IS 2014 silver,"8,970,000",42433 km,n/a
+414,Lexus RX 2006 400h Gold,"3,255,000",Nigerian Used,241518
+415,Lexus ES 2014 Gray,"7,875,000",Nigerian Used,80791
+416,Lexus ES 300 2003 Ivory,"2,600,000",Nigerian Used,213419
+417,Lexus GS 300 Automatic 2006 Gold,"3,675,000",Foreign Used,292621
+418,Lexus RX 2010 450h Black,"6,760,000",Nigerian Used,114626
+419,Lexus LS 2008 460 L RWD Black,"3,465,000",Nigerian Used,64129
+420,Lexus GS 2007 silver,"2,922,000",242032 km,n/a
+421,Lexus ES 2011 White,"4,725,000",Foreign Used,235267
+422,Lexus GS 2007 Black,"2,625,000",Nigerian Used,174458
+423,Lexus GS 2008 Silver,"3,120,000",Nigerian Used,118366
+424,Lexus CT 2012 Gray,"4,515,000",Nigerian Used,201071
+425,Lexus RX 330 2006 Black,"3,640,000",Nigerian Used,156704
+426,Lexus RX 330 2004 Black,"3,150,000",Nigerian Used,100347
+427,Lexus GS 350 4WD 2014 Silver,"8,925,000",Nigerian Used,130372
+428,New Lexus GS 350 2007 Silver,"4,200,000",Brand New,220000
+429,Lexus RX 350 2008 Gold,"4,472,000",Nigerian Used,132109
+430,Lexus ES 2004 silver,"2,922,000",97925 km,n/a
+431,Lexus RX 350 2015 Silver,"10,500,000",Nigerian Used,125309
+432,Lexus GX 2008 Silver,"3,360,000",Nigerian Used,209116
+433,Lexus IS 2008 Silver,"2,940,000",Nigerian Used,269685
+434,Lexus RX 350 2014 Red,"8,400,000",Nigerian Used,53558
+435,Lexus IS 2006 250 AWD Blue,"2,940,000",Nigerian Used,117301
+436,Lexus ES 2003 silver,"1,914,000",109076 km,n/a
+437,Lexus RX 2000 Gray,"2,080,000",Nigerian Used,238253
+438,Lexus ES 300 2002 Silver,"2,588,000",Nigerian Used,115370
+439,Lexus RX 350 2013 Silver,"8,400,000",Nigerian Used,89456
+440,Lexus ES 2005 330 Silver,"3,120,000",Nigerian Used,135947
+441,Lexus RX 2006 400h AWD Blue,"4,200,000",Foreign Used,369489
+442,Lexus RX 2003 Silver,"2,600,000",Nigerian Used,102199
+443,Lexus GS 2010 Black,"3,675,000",Foreign Used,127721
+444,Lexus RX 350 2009 Silver,"4,784,000",Nigerian Used,1530065
+445,Lexus RX 350 2010 Blue,"8,400,000",Foreign Used,120660
+446,Lexus GX 2005 Silver,"3,150,000",Nigerian Used,322300
+447,Lexus RX 2005 Blue,"3,360,000",Nigerian Used,258030
+448,Lexus NX 2018 300 FWD Red,"15,750,000",Nigerian Used,8888
+449,Lexus GS 2006 Black,"2,928,000",Nigerian Used,208657
+450,Lexus RX 2004 330 Black,"2,940,000",Nigerian Used,97721
+451,Lexus ES 2004 Burgandy,"2,600,000",Nigerian Used,229688
+452,Lexus RX 350 2007 Black,"4,680,000",Nigerian Used,220726
+453,Lexus GS 2008 Blue,"2,625,000",Nigerian Used,280543
+454,Lexus GS 2007 350 Black,"2,625,000",Nigerian Used,171560
+455,Lexus RX 350 AWD 2008 Black,"3,570,000",Foreign Used,155665
+456,Lexus RX 350 2008 Gold,"3,570,000",Nigerian Used,257449
+457,Lexus RX 350 2009 Red,"8,840,000",Foreign Used,26690
+458,Lexus RX 350 2019 Silver,"21,000,000",Nigerian Used,22033
+459,Lexus ES 2004 330 Sedan,"2,940,000",Foreign Used,144353
+460,Lexus ES 350 2008 Black,"4,888,000",Foreign Used,299594
+461,Lexus LX 2004 Gray,"3,150,000",Nigerian Used,218683
+462,Lexus ES 2007 silver,"4,042,000",215685 km,n/a
+463,Lexus RX 2001 Gold,"2,600,000",Nigerian Used,181893
+464,Lexus RX 350 2008 Silver,"4,472,000",Nigerian Used,230751
+465,Lexus IS 2008 black,"3,370,000",133201 km,n/a
+466,Lexus ES 2004 330 Sedan Black,"2,496,000",Nigerian Used,195760
+467,Lexus GS 2008 Silver,"2,625,000",Nigerian Used,132323
+468,Lexus RX 350 2008 Blue,"4,680,000",Nigerian Used,196203
+469,Lexus ES 330 Sedan 2004 Silver,"2,600,000",Nigerian Used,245057
+470,Lexus GS 2006 black,"2,362,000",126224 km,n/a
+471,Lexus IS 2006 Silver,"2,625,000",Nigerian Used,128350
+472,Lexus RX 350 2010 Black,"9,360,000",Foreign Used,69183
+473,Lexus IS 2008 Black,"3,465,000",Foreign Used,175054
+474,Lexus RX 2005 330 4WD Silver,"2,835,000",Nigerian Used,57855
+475,Lexus RX 450h 2010 Blue,"8,925,000",Foreign Used,110466
+476,Lexus ES 2013,"6,800,000",57143 km,n/a
+477,Lexus ES 2005 330 Black,"2,600,000",Nigerian Used,76060
+478,Lexus ES 330 Sedan 2004 Blue,"2,600,000",Nigerian Used,298934
+479,Lexus ES 350 2007 Black,"3,150,000",Nigerian Used,80676
+480,Lexus GS 2003 White,"2,940,000",Foreign Used,95554
+481,Lexus RX 2002 Silver,"2,184,000",Nigerian Used,190875
+482,Lexus RX 1999 Gold,"1,768,000",Nigerian Used,95671
+483,Lexus ES 300 2003 Blue,"2,100,000",Nigerian Used,414724
+484,Lexus ES 2002 300 Black,"1,995,000",Nigerian Used,218353
+485,Lexus ES 2002 300 Silver,"2,520,000",Foreign Used,194524
+486,Lexus RX 350 2008 Blue,"4,200,000",Foreign Used,104049
+487,Lexus ES 2006 330 Gray,"2,310,000",Nigerian Used,121412
+488,Lexus GS 430 2006 Black,"2,808,000",Nigerian Used,369464
+489,Lexus ES 300 2003 Silver,"2,912,000",Foreign Used,279988
+490,Lexus ES 2004 Silver,"2,808,000",Nigerian Used,128303
+491,Lexus ES 2005 Black,"2,310,000",Nigerian Used,173475
+492,Lexus RX 350 FWD 2013 Green,"8,400,000",Nigerian Used,173409
+493,Lexus ES 2018 Black,"24,150,000",Foreign Used,17936
+494,Lexus GS 350 2007 Blue,"2,520,000",Nigerian Used,103369
+495,Lexus RX 350 2008 Blue,"3,570,000",Nigerian Used,186456
+496,Lexus IS 2008 Silver,"2,520,000",Nigerian Used,136552
+497,Lexus RX 350 2008 Blue,"3,570,000",Nigerian Used,165330
+498,Lexus GS 2006 Blue,"2,520,000",Nigerian Used,176236
+499,Lexus RX 2001 Gold,"2,288,000",Nigerian Used,120346
+500,Lexus ES 2004 Black,"2,940,000",Foreign Used,283523
+501,Lexus GX 2004 470 Blue,"2,625,000",Nigerian Used,182267
+502,Lexus ES 2007 Beige,"2,625,000",Nigerian Used,111996
+503,Lexus ES 2008 black,"2,607,500",109160 km,n/a
+504,Lexus ES 2003 Silver,"2,100,000",Nigerian Used,206338
+505,Lexus GS 300 AWD 2006 White,"2,835,000",Foreign Used,210836
+506,Lexus ES 2004 Silver,"2,200,000",Nigerian Used,147425
+507,Lexus ES 2004 330 Sedan Silver,"2,392,000",Nigerian Used,120847
+508,Lexus RX 1999 White,"2,080,000",Nigerian Used,404250
+509,Lexus ES 2007 350 White,"2,835,000",Nigerian Used,238937
+510,Lexus LX 2008 Black,"2,625,000",Nigerian Used,62887
+511,Lexus ES 2002 Black,"2,184,000",Nigerian Used,221831
+512,Lexus RX 330 2004 Gold,"3,450,000",Nigerian Used,113268
+513,Lexus RX 350 2009 Black,"3,585,000",Nigerian Used,156501
+514,Lexus SC 2005 430 Convertible Black,"3,150,000",Foreign Used,193535
+515,Lexus ES 2005 Red,"2,520,000",Foreign Used,101051
+516,Lexus RX 2005 silver,"3,370,000",269051 km,n/a
+517,Lexus Rx 350 2008,"3,594,000",211169 km,n/a
+518,Lexus RX 450h 2010 Gray,"5,775,000",Nigerian Used,310442
+519,Lexus ES 2012 Black,"6,300,000",Foreign Used,12054
+520,Lexus RX 1999 Black,"1,976,000",Nigerian Used,197165
+521,Lexus ES 330 Sedan 2004 Silver,"2,600,000",Nigerian Used,274088
+522,Lexus IS 2006 Black,"2,310,000",Nigerian Used,193684
+523,Lexus GS 350 2010 Silver,"3,120,000",Nigerian Used,305623
+524,Lexus Es 2012 silver,"8,410,000",59092 km,n/a
+525,Lexus ES 2005 300 Silver,"2,600,000",Nigerian Used,97915
+526,Lexus GS 2006 300 Automatic Silver,"2,415,000",Nigerian Used,158309
+527,Lexus RX 1999 Silver,"1,938,000",Nigerian Used,225668
+528,Lexus ES 2002,"2,100,000",Foreign Used,n/a
+529,Lexus RX 330 4WD 2005 Silver,"4,515,000",Foreign Used,176454
+530,Lexus RX 300 4WD 2001 White,"2,392,000",Nigerian Used,227119
+531,Lexus ES 2004 330 Sedan Gray,"1,995,000",Nigerian Used,218279
+532,Lexus ES 2005 330 Silver,"2,310,000",Nigerian Used,148435
+533,Lexus IS 2010 Red,"7,280,000",Foreign Used,164336
+534,Lexus IS 2014 red,"8,500,000",97215 km,n/a
+535,Lexus ES 2004 330 Sedan Green,"2,288,000",Nigerian Used,106126
+536,Lexus IS 2008 black,"2,586,000",83378 km,n/a
+537,Lexus IS 2006 250 AWD Black,"2,310,000",Nigerian Used,214198
+538,Lexus RX 2003 Gray,"2,080,000",Nigerian Used,558046
+539,Lexus IS 2008 250 Blue,"2,625,000",Nigerian Used,112068
+540,Lexus GS 2006 Blue,"2,310,000",Nigerian Used,310182
+541,Lexus RX 350 2008 Gray,"5,824,000",Nigerian Used,164490
+542,Lexus GS 2006 300 AWD Blue,"2,835,000",Foreign Used,174692
+543,Lexus LS 460 L RWD 2008 Black,"2,782,500",Nigerian Used,91195
+544,Lexus GS 300 2000 Green,"2,205,000",Foreign Used,213792
+545,Lexus ES 2010 blue,"4,490,000",111353 km,n/a
+546,Lexus GS 2007 Black,"2,310,000",Nigerian Used,n/a
+547,Lexus RX 350 2010 Red,"6,825,000",Nigerian Used,227560
+548,Lexus RX 2004 330 Blue,"2,730,000",Nigerian Used,16767
+549,Lexus ES 2003 300 Silver,"2,288,000",Nigerian Used,135610
+550,Lexus ES 330 Sedan 2004 Silver,"2,288,000",Nigerian Used,360191
+551,Lexus IS 350 2007 Black,"2,415,000",Nigerian Used,155619
+552,Lexus ES 2002 300 Gold,"2,080,000",Nigerian Used,180360
+553,Lexus RX 350 2010 Blue,"5,310,000",Nigerian Used,78708
+554,Lexus GS 2008 gray,"4,266,000",191463 km,n/a
+555,Lexus IS 350 2007 Black,"2,415,000",Nigerian Used,155619
+556,Lexus RX 350 2010 Blue,"5,310,000",Nigerian Used,78708
+557,Lexus RX 1999 Gold,"1,575,000",Nigerian Used,2254489
+558,Lexus GS 2001 White,"1,890,000",Nigerian Used,191121
+559,Lexus ES 2003 300 Silver,"1,995,000",Nigerian Used,191482
+560,Lexus ES 2006 Green,"2,100,000",Nigerian Used,79526
+561,Lexus RX 1999 300 4WD White,"1,575,000",Nigerian Used,111576
+562,Lexus RX 330 4WD 2005 Green,"4,992,000",Nigerian Used,447586
+563,Lexus RX 1999 Silver,"1,580,000",Nigerian Used,269345
+564,Lexus ES 2002 300 Silver,"1,837,500",Nigerian Used,151015
+565,Lexus IS 250 2007 Gold,"2,235,000",Nigerian Used,169679
+566,Lexus LX 2000 Black,"1,470,000",Nigerian Used,222631
+567,Lexus ES 300 2002 Silver,"1,890,000",Nigerian Used,317078
+568,Lexus IS 250 AWD 2007 Black,"2,730,000",Foreign Used,193069
+569,Lexus RX 300 4WD 2003 Green,"1,627,500",Nigerian Used,62781
+570,Lexus RX 350 2010 Gray,"4,880,000",Nigerian Used,83146
+571,Lexus ES 1999 White,"1,680,000",Nigerian Used,143219
+572,Lexus ES 2002 Silver,"1,575,000",Nigerian Used,308475
+573,Lexus IS 2008 Off white,"2,205,000",Nigerian Used,122797
+574,Lexus Rx 350 2006 black,"3,706,000",222062 km,n/a
+575,Lexus IS 2007 Black,"2,163,000",Nigerian Used,126851
+576,Lexus RX 330 2004 Black,"4,680,000",Nigerian Used,137267
+577,Lexus RX 350 2007 Silver,"5,670,000",Foreign Used,120083
+578,Lexus RX 1999 Gold,"1,575,000",Nigerian Used,59302
+579,Lexus ES 2003 300 Blue,"1,785,000",Nigerian Used,240470
+580,Lexus ES 2006 Black,"3,570,000",Foreign Used,305818
+581,Lexus RX 350 2007 Black,"6,136,000",Foreign Used,134387
+582,Lexus GS 2008 350 Silver,"1,575,000",Nigerian Used,295037
+583,Lexus GS 2004 Silver,"3,150,000",Nigerian Used,157417
+584,Lexus ES 2004 Black,"1,575,000",Nigerian Used,105915
+585,Lexus ES 2002,"1,575,000",Nigerian Used,173011
+586,Lexus ES 2003 silver,"2,250,000",79002 km,n/a
+587,Lexus ES 2009 Burgandy,"4,836,000",Foreign Used,123275
+588,Lexus RX 1999 300 Brown,"1,365,000",Nigerian Used,294332
+589,Lexus RX 2000 Gold,"1,365,000",Nigerian Used,368725
+590,Lexus ES 350 FWD 2014 Black,"8,400,000",Foreign Used,60754
+591,Lexus ES 2002 300 Black,"1,417,500",Nigerian Used,224133
+592,Lexus ES 2011 Blue,"4,992,000",Nigerian Used,82773
+593,Lexus RX 350 2014 Gold,"7,875,000",Foreign Used,97289
+594,Lexus ES 2002 silver,"1,578,000",67845 km,n/a
+595,Lexus RX 350 2011 Gray,"9,984,000",Foreign Used,113342
+596,Lexus RX 300 4WD 2001 Black,"1,780,000",Nigerian Used,148414
+597,Lexus GX 2015 Black,"13,650,000",Foreign Used,57068
+598,Lexus RX 350 2007 Blue,"6,460,000",Foreign Used,129693
+599,Lexus RX 330 2005 Green,"5,040,000",Foreign Used,244421
+600,Lexus RX 2001 300 White,"1,365,000",Nigerian Used,198044
+601,Lexus ES 2001 300 Gray,"1,050,000",Nigerian Used,278388
+602,Lexus RX 330 2005 Green,"5,040,000",Foreign Used,244421
+603,Lexus RX 2008 Silver,"4,160,000",Nigerian Used,165206
+604,Lexus LS 460 AWD 2009 Black,"2,370,000",Nigerian Used,127837
+605,Lexus RX 330 2005 Gray,"2,330,000",Nigerian Used,313676
+606,Lexus ES 2010 Gray,"4,784,000",Nigerian Used,197269
+607,Lexus IS 2003 Automatic Gray,"945,000",Nigerian Used,n/a
+608,Lexus RX 350 2010 White,"9,880,000",Foreign Used,98929
